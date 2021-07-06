@@ -1,0 +1,22 @@
+#recordButton, #pauseButton, #stopButton {
+    margin: 20px;
+    padding: 10px 20px;
+  }
+
+  button{
+    margin: 10px 5px;
+  }
+  li{
+    margin: 10px;
+  }
+  body{
+    width: 90%;
+    max-width: 960px;
+    margin: 0px auto;
+  }
+  #btns{
+    display: none;
+  }
+  h1{
+    margin: 100px;
+  }
